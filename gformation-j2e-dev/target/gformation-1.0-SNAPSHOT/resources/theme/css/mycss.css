@@ -1,0 +1,33 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 10 déc. 2018, 12:25:08
+    Author     : AGE_ROG
+*/
+
+body{
+    background-color: gainsboro !important;
+}
+
+.m-t-5{
+    margin-top: 5px;
+}
+
+.m-r-5p{
+    margin-right: 5%;
+}
+.paddin2p{
+    padding: 2% !important;
+}
+
+.borderGinf2px{
+    border-top: 2px solid #66512c;
+}
+
+.bg-marron{
+    background-color: rgba(0,0,0,.5) !important;
+    border-color: rgba(0,0,0,.5) !important;
+}
