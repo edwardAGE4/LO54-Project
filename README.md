@@ -6,7 +6,7 @@ Cette application à pour but de gérer les formations proposées par une école
 
 •	L’espace d’administration permet de configurer les formations et d’avoir des statistiques. 
 
-•	Outils : Java JEE Spring MVC 
+•	Outils : Java J2EE Spring MVC 
 
 •	Analyse UML effectuée avec Sysbase Power Designer
 
